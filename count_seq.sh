@@ -1,3 +1,3 @@
 #!/bin/bash
-#Very useful :)
-grep -c "^>" $1
+#USAGE Very useful :) 
+grep -C "^>" $1
